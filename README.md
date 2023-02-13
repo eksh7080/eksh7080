@@ -1,9 +1,10 @@
-<img src="https://user-images.githubusercontent.com/93601210/217309511-66943aca-4c76-4442-ac97-aba7deebf480.png" />
+<img src="https://user-images.githubusercontent.com/93601210/218406062-31889b66-09ba-4118-a9d7-46d4432de146.png" />
+
 
 <div align="center">
 
 
-# 🌔 프론트엔드 개발자 이다노의 깃허브 입니다. 🌘
+#  프론트엔드 개발자 이다노의 깃허브 입니다. 
 
 
 ### 기술 스택
